@@ -1,0 +1,10 @@
+com\token\domain\ResponseResult.class
+com\token\config\RedisConfig.class
+com\token\utils\RedisCache.class
+com\token\utils\FastJsonRedisSerializer.class
+com\token\utils\WebUtils.class
+com\token\domain\User.class
+com\token\TokenApplication.class
+com\token\mapper\UserMapper.class
+com\token\controller\HelloController.class
+com\token\utils\JwtUtil.class
